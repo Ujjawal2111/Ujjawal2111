@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ujjawal2111
 - 👀 I’m interested in webDevelopment
 - 🌱 I’m currently working in Django
-- 📫 You can reach me through mail on sharmaani74@gmail.com
 
 <!---
 Ujjawal2111/Ujjawal2111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
