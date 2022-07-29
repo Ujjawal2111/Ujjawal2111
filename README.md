@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ujjawal2111
-- 👀 I’m interested in webDevelopment
+- 👀 I’m skilled in Data Structures and Algorithms
 - 🌱 I’m currently working in Django
 
 <!---
